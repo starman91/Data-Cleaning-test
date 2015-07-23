@@ -1,5 +1,5 @@
 # Course Project 
-### Courser a - Getting and Cleaning Data
+### Coursera - Getting and Cleaning Data
 
 #### Files List:
 run_analysis.R - This is the operational script to analyze the data
