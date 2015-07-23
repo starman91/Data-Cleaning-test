@@ -2,7 +2,7 @@
 ## Getting and Cleaning Data - Coursera getdata-030
 
 ### Introduction
-The prupose is to explore the concepts of taking exisitng data form the wild and creating tidy data from those products. This script will take the UCI HAR Data sets, realting to wearable physical monitoring (exercise) devices and computer averages from the device telemtry. The analysis is perfomed in several steps that will combine then extract data from several files.
+The purpose of this exercise is to explore the concepts of taking exisiting data from the wild and creating tidy data from those products. This script will take the UCI HAR Data sets, realting to wearable physical monitoring (exercise) devices and computer averages from the device telemetry. The analysis is perfomed in several steps that will combine then extract data from several files.
 
 ### Assignment Text
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected. 
@@ -23,7 +23,7 @@ You should create one R script called run_analysis.R that does the following.
 * Appropriately labels the data set with descriptive variable names. 
 * From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-
-
+### Addtional Details
+Further information about script operation and the input and output of the script can be found in the CodeBook.md
 
 
