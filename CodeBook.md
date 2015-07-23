@@ -10,6 +10,9 @@ README.md - general repository information
 The following libraries need to be installed and loaded prior to running this script
 * plyr
 
+#### Data Set
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 ### Script Details
 #####Step 1: Pull out data from the files and merge likes together
 Data Frames: x_train, y_train, subject_train, x_test, y_test, and subject_test is the raw data pertaining to the train or test sets.
